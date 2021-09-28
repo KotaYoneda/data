@@ -18,4 +18,4 @@
 > 表番号6-2「年次別にみた性別新生児死亡数並びに新生児死亡率（出生千対）・新生児死亡性比及び乳児死亡中新生児死亡の占める割合」 \
 > https://www.e-stat.go.jp/stat-search?toukei=00450011
 
-![perinatal mortality](https://github.com/KotaYoneda/data/raw/main/perinatal_mortality_plot_2020.png "perinatal mortality")
+![perinatal mortality](https://github.com/KotaYoneda/data/raw/main/perinatal_mortality_2020.png "perinatal mortality")
