@@ -1,4 +1,4 @@
-year,birth,stillbirth,early_neonatal_death,neonatal_death,infant_death
+year,live_birth,stillbirth,early_neonatal_death,neonatal_death,infant_death
 1899,1386981,,,108077,213359
 1900,1420534,,,112259,220211
 1901,1501591,,,115794,225107
