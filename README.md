@@ -21,6 +21,11 @@
 
 ![annula birth per female population by maternal age](https://github.com/KotaYoneda/data/raw/main/img/anual_birth_per_female_population_by_maternal_age_2019.png "annula birth per female population by maternal age")
 
+世代別にまとめ直すと次の通り
+
+![annula birth per female population by generation 2015](https://github.com/KotaYoneda/data/raw/main/img/anual_birth_per_female_population_by_generation_2015.png "annula birth per female population by generation 2015")
+
+
 ### 日本の出生数・死産数・早期新生児死亡数・新生児死亡数・乳児死亡数の推移（1899-2020年）
 
 `perinatal_mortality_2020.csv`
