@@ -8,8 +8,8 @@
 > 表番号8-1「年次別にみた性・妊娠満22週以後の死産－早期新生児死亡別周産期死亡数」 \
 > 表番号6-1「年次別にみた出生数及び性別乳児死亡数並びに乳児死亡率（出生千対）・乳児死亡性比及び総死亡中乳児死亡の占める割合」 \
 > 表番号6-2「年次別にみた性別新生児死亡数並びに新生児死亡率（出生千対）・新生児死亡性比及び乳児死亡中新生児死亡の占める割合」 \
-> https://www.e-stat.go.jp/stat-search?toukei=00450011
-> ただし、1947年以前のデータは国立社会保障・人口問題研究所の公開データから引用
+> https://www.e-stat.go.jp/stat-search?toukei=00450011 \
+> ただし、1947年以前のデータは国立社会保障・人口問題研究所の公開データから引用 \
 > http://www.ipss.go.jp/syoushika/tohkei/Popular/P_Detail2020.asp?fname=T04-07.htm
 
 ![annula birth by maternal age](https://github.com/KotaYoneda/data/raw/main/img/anual_birth_by_maternal_age_2020.png "annula birth by maternal age")
